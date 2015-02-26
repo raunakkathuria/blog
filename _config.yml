@@ -5,7 +5,7 @@ description: >
   Driven by passion for web designing - Believe in simple
   yet elegant design.
 baseurl: '' # the subpath of your site, e.g. /blog/
-url: 'http://www.raunakkathuria.com/' # the base hostname & protocol for your site
+url: 'http://www.raunakkathuria.com' # the base hostname & protocol for your site
 github_username:  raunakkathuria
 
 # Build settings
