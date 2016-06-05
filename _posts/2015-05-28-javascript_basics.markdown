@@ -7,7 +7,7 @@ description: "Javascript basics, javascript object creation, way to create objec
 author: "Raunak Kathuria"
 ---
 
-This post is about self-learning, I like to note down my understanding of concept that I am working on or learning fot better understanding and grasp.
+This post is about self-learning, I like to note down my understanding of concept that I am working on or learning for better understanding and grasp.
 
 > Please note that information in this post may not be accurate or not as per standards
 
