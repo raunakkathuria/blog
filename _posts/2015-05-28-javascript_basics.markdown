@@ -11,9 +11,9 @@ This post is about self-learning, I like to note down my understanding of concep
 
 > Please note that information in this post may not be accurate or not as per standards
 
-##Javascript Object - Ways to create javascript object
+## Javascript Object - Ways to create javascript object
 
-###Factory Pattern
+### Factory Pattern
 
 {% highlight javascript %}
 function createPerson(name, age) {
@@ -30,7 +30,7 @@ var person = createPerson("abc", 29);
 
 Problem with this approach is that all object created with this will have type of Object so it leads to problem of Object Identification
 
-###Constructor Pattern
+### Constructor Pattern
 
 {% highlight javascript %}
 function Person(name, age) { // by convention constructor function begin with capital
@@ -73,7 +73,7 @@ var person = new Person("abc", 29);
 
 but this leads to issue of populating global space with `sayName` so we have now `window.sayName` function
 
-##Prototype Pattern
+## Prototype Pattern
 
 {% highlight javascript %}
 function Person() {}
