@@ -23,8 +23,8 @@ email: raunakkathuria@gmail.com
 description: >
   Driven by passion for web designing - Believe in simple
   yet elegant design.
-baseurl: '' # the subpath of your site, e.g. /blog/
-url: 'https://raunakkathuria.github.io/blog/' # the base hostname & protocol for your site
+baseurl: '/blog/' # the subpath of your site, e.g. /blog/
+url: 'https://raunakkathuria.github.io' # the base hostname & protocol for your site
 github_username:  raunakkathuria
 
 # Build settings
