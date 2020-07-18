@@ -4,7 +4,7 @@ title:  "Docker Internals"
 date:   2020-07-18
 categories: technical docker
 tags: docker "docker internals" "docker underlyings"
-description: "Docker underlying technologies"
+description: "Docker internals and underlying technologies"
 author: "Raunak Kathuria"
 ---
 
