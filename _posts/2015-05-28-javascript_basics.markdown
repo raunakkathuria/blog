@@ -94,7 +94,7 @@ When function is created its prototype property is also created and gets a prope
 
 Whenever new instance is created that instance has one internal property (`__proto__` or `[[Prototype]]`) that points to `constructor prototype` not to constructor directly.
 
-![Prototype Constructor Instance Relation]({{ site.url }}/assets/images/learning/prototype_constructor_relation.png)
+![Prototype Constructor Instance Relation]({{ "/assets/images/learning/prototype_constructor_relation.png" | relative_url }})
 
 > Prototype Constructor Instance Relation
 
@@ -200,7 +200,7 @@ var person1 = new Person();
 person1.sayName(); // prints Nicholas
 {% endhighlight %}
 
-![Prototype object literal behaviour]({{ site.url }}/assets/images/learning/prototype_object_literal_behaviour.png)
+![Prototype object literal behaviour]({{ "/assets/images/learning/prototype_object_literal_behaviour.png" | relative_url }})
 
 ### Problems with prototype
 
@@ -290,7 +290,7 @@ var instance = new SubType();
 console.log(instance.getSuperValue()); // true
 {% endhighlight %}
 
-![Prototype Chaining Inheritance]({{ site.url }}/assets/images/learning/prototype_chaining_inheritance.png)
+![Prototype Chaining Inheritance]({{ "/assets/images/learning/prototype_chaining_inheritance.png" | relative_url }})
 
 >Prototype Chaining Inheritance
 

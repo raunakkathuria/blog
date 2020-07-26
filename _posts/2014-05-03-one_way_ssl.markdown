@@ -12,7 +12,7 @@ author: "Raunak Kathuria"
 
 In one way SSL the server is required to present the certificate to the client to verify the credentials of the server but client is not verified by the server.
 
-![One Way SSL Flow]({{ site.url }}/assets/images/ssl/one-way-ssl.png)
+![One Way SSL Flow]({{ "/assets/images/ssl/one-way-ssl.png" | relative_url }})
 
 > One Way SSL Flow Diagram
 
@@ -42,14 +42,14 @@ Following are the steps to implement One Way SSL:
         For Weblogic `Start Weblogic -> Login to console -> Click on Environment -> Servers -> SSL ->Advanced`
 
     * Make sure in Two Way Client Cert behavior option Client certs not requested is selected
-    ![One Way SSL configuration on weblogic]({{ site.url }}/assets/images/ssl/client_certs_not_requested_weblogic.png)
+    ![One Way SSL configuration on weblogic]({{ "/assets/images/ssl/client_certs_not_requested_weblogic.png" | relative_url }})
 
     > One Way SSL configuration on weblogic
 
     **Glassfish**
 
     Make sure that client authentication is not selected
-    ![One Way SSL config for glassfish]({{ site.url }}/assets/images/ssl/client_authentication_not_enabled_glassfish.png)
+    ![One Way SSL config for glassfish]({{ "/assets/images/ssl/client_authentication_not_enabled_glassfish.png" | relative_url }})
 
     > One Way SSL config for glassfish
 
@@ -151,8 +151,8 @@ Or For Weblogic goto
 
 `Start Weblogic -> Login to console -> Click on Environment -> Servers -> SSL -> Advanced -> Set the Hostname Verification to None`
 
-![SSL Hostname Verification Weblogic Setting]({{ site.url }}/assets/images/ssl/ssl_hostname_verification_weblogic.png)
+![SSL Hostname Verification Weblogic Setting]({{ "/assets/images/ssl/ssl_hostname_verification_weblogic.png" | relative_url }})
 
 > SSL Hostname Verification Weblogic Setting
 
-[get the pdf with example]({{ site.url }}/assets/documents/ssl/one_way_ssl.pdf)
+[get the pdf with example]({{ "/assets/documents/ssl/one_way_ssl.pdf" | relative_url }})

@@ -18,6 +18,6 @@ WSDL contains mainly four important pieces/components of information about the w
 * Binding information which defines message format and protocol to be used for invoking the specified web service.
 * Location/Address of the exposed web service.
 
-![WSDL Structure]({{ site.url }}/assets/images/wsdl/wsdl_specifications.jpg)
+![WSDL Structure]({{ "/assets/images/wsdl/wsdl_specifications.jpg" | relative_url }})
 
 > WSDL Structure

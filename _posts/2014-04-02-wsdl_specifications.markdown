@@ -120,4 +120,4 @@ It defines message format and protocols details for operations and message defin
 </service>
 {% endhighlight %}
 
-[get the pdf with example]({{ site.url }}/assets/documents/wsdl/wsdl_specification.pdf)
+[get the pdf with example]({{ "/assets/documents/wsdl/wsdl_specification.pdf" | relative_url }})

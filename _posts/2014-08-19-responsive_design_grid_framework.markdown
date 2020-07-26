@@ -49,7 +49,7 @@ Mobile first design philosophy is best explained by [LukeW blog](http://www.luke
 
 Grid finds its major use in print design but it’s now recently making its way to web designing. Grid is basically a way to divide the space(canvas/webpage) in uniform units(columns) and is used to arrange content in organized and systematic way.
 
-![Basic 12 Columns 960px Grid]({{ site.url }}/assets/images/responsive/12_column_grid_960px.png)
+![Basic 12 Columns 960px Grid]({{ "/assets/images/responsive/12_column_grid_960px.png" | relative_url }})
 
 > Basic 12 Columns 960px Grid
 
@@ -63,7 +63,7 @@ By using responsive units doesn’t mean we have to discard the fixed units alto
 
 **Responsive Units**: They are used when you want content/container to adjust across the devices/screen.
 
-![Use fixed units for margin, padding. Use responsive units for container width and font size]({{ site.url}}/assets/images/responsive/fixed_responsive_units.png)
+![Use fixed units for margin, padding. Use responsive units for container width and font size]({{ "/assets/images/responsive/fixed_responsive_units.png" | relative_url }})
 
 > Use fixed units for margin, padding. Use responsive units for container width and font size
 
@@ -75,7 +75,7 @@ Gridle is responsive framework that is based on states that are basically abstra
 
 Consider two div parallel to each other
 
-![Parallel div containers]({{ site.url }}/assets/images/responsive/divs_alignment.png)
+![Parallel div containers]({{ "/assets/images/responsive/divs_alignment.png" | relative_url }})
 
 > Parallel div containers
 
@@ -111,13 +111,13 @@ Consider two div parallel to each other
 
 This was extremely fun and challenging project to work with, it is still work in progress as we still have to optimized for phablet devices. Outcome of the responsive design can be seen as per below images or visit [binary.com][binary-url]{:target="_blank"}. Let me know your thoughts, hope you enjoyed reading the post
 
-![Look of old binary.com before responsive project on mobile device, text is blurry because of scaling by mobile browser]({{ site.url }}/assets/images/responsive/old_binary_com.jpg)
+![Look of old binary.com before responsive project on mobile device, text is blurry because of scaling by mobile browser]({{ "/assets/images/responsive/old_binary_com.jpg" | relative_url }})
 
 > Look of old binary.com before responsive project on mobile device, text is blurry because of scaling by mobile browser
 
 <br>
 
-![Look of website after responsive project, text is crisp and readable]({{ site.url }}/assets/images/responsive/new_mobile_layout.png)
+![Look of website after responsive project, text is crisp and readable]({{ "/assets/images/responsive/new_mobile_layout.png" | relative_url }})
 
 > Look of website after responsive project, text is crisp and readable
 

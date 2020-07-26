@@ -12,7 +12,7 @@ author: "Raunak Kathuria"
 
 In Two Way SSL (mutual authentication) the client verifies the identity of the server, and then the server verifies the credentials of the client. The figure below gives an overview of the Two Way SSL process.
 
-![Two Way SSL Flow]({{ site.url }}/assets/images/ssl/two-way-ssl.png)
+![Two Way SSL Flow]({{ "/assets/images/ssl/two-way-ssl.png" | relative_url }})
 
 > Two Way SSL Flow Diagram
 
@@ -42,14 +42,14 @@ Following are the steps to implement Two Way SSL:
         For Weblogic `Start Weblogic -> Login to console -> Click on Environment -> Servers -> SSL ->Advanced`
 
     * Make sure in Two Way Client Cert behavior option Client Certs Requested and Enforced is selected
-    ![Two Way SSL configuration on weblogic]({{ site.url }}/assets/images/ssl/two-way-ssl-config-weblogic.png)
+    ![Two Way SSL configuration on weblogic]({{ "/assets/images/ssl/two-way-ssl-config-weblogic.png" | relative_url }})
 
     > Two Way SSL configuration on weblogic
 
     **Glassfish**
 
     Make sure that client authentication is enabled
-    ![Two Way SSL config for glassfish]({{ site.url }}/assets/images/ssl/two-way-ssl-config-glassfish.png)
+    ![Two Way SSL config for glassfish]({{ "/assets/images/ssl/two-way-ssl-config-glassfish.png" | relative_url }})
 
     > Two Way SSL config for glassfish
 
@@ -221,7 +221,7 @@ Or For Weblogic goto
 
 `Start Weblogic -> Login to console -> Click on Environment -> Servers -> SSL -> Advanced -> Set the Hostname Verification to None`
 
-![SSL Hostname Verification Weblogic Setting]({{ site.url }}/assets/images/ssl/ssl_hostname_verification_weblogic.png)
+![SSL Hostname Verification Weblogic Setting]({{ "/assets/images/ssl/ssl_hostname_verification_weblogic.png" | relative_url }})
 
 > SSL Hostname Verification Weblogic Setting
 
@@ -246,4 +246,4 @@ Client subtract Port is JAX-WS RI 2.1.6 in JDK 6: Stub for https://localhost:700
  Result of subtraction is 4
 {% endhighlight %}
 
-[get the pdf with example]({{ site.url }}/assets/documents/ssl/two_way_ssl.pdf)
+[get the pdf with example]({{ "/assets/documents/ssl/two_way_ssl.pdf" | relative_url }})
