@@ -8,13 +8,16 @@ Currently, I am working as a back-end manager for [deriv.com][deriv-url]{:target
 
 ## My software beliefs
 
-### Simplicity is one of the greatest virtue
+#### Simplicity is one of the greatest virtue
+
 It doesn’t matter how good the website design or software application is, it’s going to be doomed if it doesn’t serve the purpose users are looking for. As per me, the first and foremost criteria for users is simplicity.
 
-### Elegance
+#### Elegance
+
 After simplicity has been taken care of, comes the question of how to present the content in a simple yet appealing way? For me this is the stage where designer creativity comes in, the website or software application should be simple yet elegant, the content should not be masked by design.
 
-### Feedback
+#### Feedback
+
 As a designer or a developer, we have the tendency to think that whatever is designed needs no correction but I think it’s important to consider the user feedback and incorporate it if possible.
 
 ## Maxims of my life
