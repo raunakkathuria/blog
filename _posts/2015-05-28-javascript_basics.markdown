@@ -513,6 +513,4 @@ function createAnother(original) {
 
 #### Problem with Parasitic Interface
 
-Keep in mind that adding functions to objects using parasitic inheritance leads to ineffi ciencies related to function reuse, similar to the constructor pattern
-
-### Parasitic Combination inheritance
+Keep in mind that adding functions to objects using parasitic inheritance leads to inefficiencies related to function reuse, similar to the constructor pattern.
