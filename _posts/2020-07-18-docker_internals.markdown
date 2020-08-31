@@ -2,7 +2,7 @@
 layout: post
 title:  "Docker Internals"
 date:   2020-07-18
-categories: technical docker
+categories: technical learning
 tags: docker "docker internals" "docker underlyings"
 description: "Docker internals and underlying technologies"
 author: "Raunak Kathuria"
