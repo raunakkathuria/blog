@@ -163,7 +163,7 @@ $ xxd -b ascii.txt
 
 Please keep in mind that UTF-8/16/32 are encoding. Unicode is a character set.
 
-I hope this has been useful, and if you have questions, comments, or suggestions then please let me know. Also, if anything is not clear or not easy to understand then please let me know. You can contact me directly - email is listed on my GitHub profile.
+I hope this has been useful, and if you have questions, comments, suggestions, or if anything is not clear or not easy to understand then please let me know. You can contact me directly through email.
 
 ## References
 
