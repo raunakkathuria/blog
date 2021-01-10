@@ -6,25 +6,39 @@ permalink: /about/
 
 Currently, I am working as a back-end manager for [deriv.com][deriv-url]{:target="_blank"} in Cyberjaya, Malaysia. In my free time, I love to read or learn something new to enhance my skills.
 
-## My software beliefs
+## ~~Leadership~~ Servant beliefs
 
-#### Simplicity is one of the greatest virtue
+- You are the servant of the team not the leader.
+- Team success is the only thing that matters.
+- We hired team members for a reason, trust them, let them grow.
+- Encourage autonomy.
+- Be supportive.
 
-It doesn’t matter how good the website design or software application is, it’s going to be doomed if it doesn’t serve the purpose users are looking for. As per me, the first and foremost criteria for users is simplicity.
+## Development beliefs
 
-#### Elegance
+- Simplicity is one of the greatest virtue
 
-After simplicity has been taken care of, comes the question of how to present the content in a simple yet appealing way? For me this is the stage where designer creativity comes in, the website or software application should be simple yet elegant, the content should not be masked by design.
+    It doesn’t matter how good the website design or software application is, it’s going to be doomed if it doesn’t serve the purpose users are looking for. The first and foremost criteria for users is simplicity.
 
-#### Feedback
+- Elegance
 
-As a designer or a developer, we have the tendency to think that whatever is designed needs no correction but I think it’s important to consider the user feedback and incorporate it if possible.
+    After simplicity has been taken care of, comes the question - "how to present the content or application in a simple yet appealing way?". This is where creativity comes in, the website or application should be simple yet elegant. The content should not be masked by the design.
 
-## Maxims of my life
+- Feedback
+
+    As a designer or a developer, we have the tendency to think that whatever is designed needs no correction, but I think it’s important to consider the user feedback and incorporate it.
+
+## Maxims of life
 
 - Life is simple, don't complicate it.
 - Life is to be happy, not to hold on to grudges.
-- In life, be like d**k; flexible most of the time but firm when needed (It came as a random thought one day).
+- In life, be like d**k: flexible most of the time but firm when needed.
+
+## Recent courses
+
+#### Year 2020
+
+- [New Manager: The Basics and More of Being a Good Leader](https://www.udemy.com/course/new-manager/){:target="_blank"} - [Certificate]({{ "/assets/documents/course/NewManagerCourseCertificate.pdf" | relative_url }}){:target="_blank"}
 
 ## Recent read
 
