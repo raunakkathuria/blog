@@ -10,7 +10,7 @@ Currently, I am working as a back-end manager for [deriv.com][deriv-url]{:target
 
 - You are the servant of the team not the leader.
 - Team success is the only thing that matters.
-- We hired team members for a reason, trust them, let them grow.
+- We hired team members for a reason; trust them, let them grow.
 - Encourage autonomy.
 - Be supportive.
 
