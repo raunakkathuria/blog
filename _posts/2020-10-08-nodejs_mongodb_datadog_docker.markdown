@@ -243,7 +243,7 @@ We will setup three different services for each of datadog, nodejs, and mongodb 
 
 #### datadog
 
-For an explanation of various environment options for datadog, refer https://docs.datadoghq.com/agent/docker/?tab=standards.
+For an explanation of various environment options for datadog, refer [https://docs.datadoghq.com/agent/docker/?tab=standards](https://docs.datadoghq.com/agent/docker/?tab=standards){:target="_blank"}.
 
 ```
 datadog:
@@ -313,7 +313,7 @@ app:
       condition: on-failure
 ```
 
-For code and installation visit the project on Github - https://github.com/raunakkathuria/learning/tree/master/docker/nodejs-monogodb-datadog.
+For code and installation visit the project on Github - [https://github.com/raunakkathuria/learning/tree/master/docker/nodejs-monogodb-datadog](https://github.com/raunakkathuria/learning/tree/master/docker/nodejs-monogodb-datadog){:target="_blank"}.
 
 ## References
 

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Currently, I am working as a back-end manager for [deriv.com][deriv-url]{:target="_blank"} in Cyberjaya, Malaysia. In my free time, I love to read or learn something new to enhance my skills.
+Currently, I am working as a Head of IT Development for [deriv.com][deriv-url]{:target="_blank"} in Cyberjaya, Malaysia. In my free time, I love to read or learn something new to enhance my skills.
 
 ## ~~Leadership~~ Servant beliefs
 
@@ -36,11 +36,25 @@ Currently, I am working as a back-end manager for [deriv.com][deriv-url]{:target
 
 ## Recent courses
 
+#### Year 2021
+
+- [Software Architecture Fundamentals](https://learning.oreilly.com/videos/software-architecture-fundamentals/9781491998991)
+
+- [Introduction to Redis Data Structures](https://university.redis.com/courses/ru101/)
+
+- [Redis streams](https://university.redis.com/courses/ru202/)
+
 #### Year 2020
 
 - [New Manager: The Basics and More of Being a Good Leader](https://www.udemy.com/course/new-manager/){:target="_blank"} - [Certificate]({{ "/assets/documents/course/NewManagerCourseCertificate.pdf" | relative_url }}){:target="_blank"}
 
 ## Recent read
+
+#### Year 2021
+
+- [Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021)
+
+- [How to See Yourself As You Really Are](https://www.amazon.com/How-See-Yourself-You-Really/dp/0743290461/)
 
 #### Year 2020
 
