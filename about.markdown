@@ -38,6 +38,8 @@ Currently, I am working as a Head of IT Development for [deriv.com][deriv-url]{:
 
 #### Year 2021
 
+- [OKR Certification](https://www.profit.co/certified-okr-professional/?certificateid=-Kathuria-P149840-721)
+
 - [Software Architecture Fundamentals](https://learning.oreilly.com/videos/software-architecture-fundamentals/9781491998991)
 
 - [Introduction to Redis Data Structures](https://university.redis.com/courses/ru101/)
