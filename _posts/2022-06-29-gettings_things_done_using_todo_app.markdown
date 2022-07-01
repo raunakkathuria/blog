@@ -114,6 +114,16 @@ Let's see how we can achieve all the above by properly structuring your To-do ap
 
     ![Weekly review item]({{ "/assets/images/productivity/review_item_structure.png" | relative_url }})
 
+## Email
+
+For email, for ease of maintenance, it's better to track inside the email system that you use rather than moving emails to your to-do app.
+
+Make use of labels to organize the action items. You can start with the following labels:
+
+![Email labels]({{ "/assets/images/productivity/email_labels.png" | relative_url }})
+
+Add `@` and use capital letters for these labels to make them appear at the top.
+
 ## Summary
 
 A to-do app is good for tracking action items, and you can efficiently manage your life by just putting a little extra initial effort into structuring and organizing your lists.
