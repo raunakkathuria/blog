@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Currently, I am working as a Head of IT Development for [deriv.com][deriv-url]{:target="_blank"} in Cyberjaya, Malaysia. In my free time, I love to read or learn something new to enhance my skills.
+Currently, I am working as a Vice President of Engineering for [deriv.com][deriv-url]{:target="_blank"} in Cyberjaya, Malaysia. In my free time, I love to read or learn something new to enhance my skills.
 
 ## ~~Leadership~~ Servant beliefs
 
-- You are the servant of the team not the leader.
+- You are the servant of the team, not the leader.
 - Team success is the only thing that matters.
-- We hired team members for a reason; trust them, let them grow.
+- We hired team members for a reason; trust them, and let them grow.
 - Encourage autonomy.
 - Be supportive.
 
@@ -32,11 +32,11 @@ Currently, I am working as a Head of IT Development for [deriv.com][deriv-url]{:
 
 - Life is simple, don't complicate it.
 - Life is to be happy, not to hold on to grudges.
-- In life, be like d**k: flexible most of the time but firm when needed.
+- In life, be like d**k: flexible most of the time, but firm when needed.
 
 ## Recent courses
 
-#### Year 2021
+#### 2021
 
 - [OKR Certification](https://www.profit.co/certified-okr-professional/?certificateid=-Kathuria-P149840-721)
 
@@ -46,19 +46,31 @@ Currently, I am working as a Head of IT Development for [deriv.com][deriv-url]{:
 
 - [Redis streams](https://university.redis.com/courses/ru202/)
 
-#### Year 2020
+#### 2020
 
 - [New Manager: The Basics and More of Being a Good Leader](https://www.udemy.com/course/new-manager/){:target="_blank"} - [Certificate]({{ "/assets/documents/course/NewManagerCourseCertificate.pdf" | relative_url }}){:target="_blank"}
 
 ## Recent read
 
-#### Year 2021
+#### 2022
+
+- [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
+
+- [Getting things done](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563)
+
+- [One Minute Manager Builds High Performing Teams](https://www.amazon.com/Minute-Manager-Builds-Performing-Teams/dp/0688172156)
+
+#### 2021
+
+- [First, Break All the Rules](https://www.amazon.com/First-Break-All-Rules-Differently/dp/1531865208)
+
+- [Building Microservices](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029)
 
 - [Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021)
 
 - [How to See Yourself As You Really Are](https://www.amazon.com/How-See-Yourself-You-Really/dp/0743290461/)
 
-#### Year 2020
+#### 2020
 
 - [The Harvard Business Review Manager's Handbook: The 17 Skills Leaders Need to Stand Out](https://store.hbr.org/product/the-harvard-business-review-manager-s-handbook-the-17-skills-leaders-need-to-stand-out/10004){:target="_blank"}
 
@@ -70,7 +82,7 @@ Currently, I am working as a Head of IT Development for [deriv.com][deriv-url]{:
 
 - [No-Drama Discipline: The Whole-Brain Way to Calm the Chaos and Nurture Your Child's Developing Mind](https://www.amazon.com/No-Drama-Discipline-Whole-Brain-Nurture-Developing/dp/034554806X){:target="_blank"}
 
-#### Year 2019
+#### 2019
 
 - [How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582328){:target="_blank"}
 
