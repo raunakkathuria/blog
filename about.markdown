@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Currently, I am working as a Vice President of Engineering for [deriv.com][deriv-url]{:target="_blank"} in Cyberjaya, Malaysia. In my free time, I love to read or learn something new to enhance my skills.
+Currently, I am working as a Vice President of Engineering for [deriv.com][deriv-url]{:target="_blank"} in Berlin, Germany. In my free time, I love to read or learn something new to enhance my skills.
 
 ## ~~Leadership~~ Servant beliefs
 
@@ -52,7 +52,13 @@ Currently, I am working as a Vice President of Engineering for [deriv.com][deriv
 
 ## Recent read
 
+#### 2023
+
+- [The Elements of Scrum](https://www.amazon.com/Elements-Scrum-Chris-Sims/dp/0982866917)
+
 #### 2022
+
+- [Clone Yourself](https://www.amazon.de/Clone-Yourself-Overcome-Bottleneck-Leadership/dp/B077GGJ35G)
 
 - [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 
