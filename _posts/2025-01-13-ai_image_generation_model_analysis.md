@@ -98,10 +98,10 @@ Model Performance Summary:
 #### Memory Usage Distribution (16GB VRAM)
 
 ```mermaid
-pie title GPU Memory Usage (at max resolution)
-    "SDXL" : 14
-    "SDXL Turbo" : 8
-    "PixArt-α" : 10
+pie title "GPU Memory Usage (at max resolution)"
+  "SDXL" : 14
+  "SDXL Turbo" : 8
+  "PixArt-α" : 10
 ```
 
 #### Performance Characteristics
