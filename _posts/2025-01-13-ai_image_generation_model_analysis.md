@@ -187,8 +187,8 @@ This analysis was conducted using ImageGenAI, an open-source project that provid
 - Comprehensive benchmarking tools for performance analysis
 
 For detailed implementation and deployment information, visit:
-- ImageGenAI Project Repository: https://github.com/raunakkathuria/imagegenai
+- ImageGenAI Project Repository: [https://github.com/raunakkathuria/imagegenai](https://github.com/raunakkathuria/imagegenai)
 - Model Sources:
-  - SDXL Base: https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0
-  - SDXL Turbo: https://huggingface.co/stabilityai/sdxl-turbo
-  - PixArt-α: https://huggingface.co/spaces/PixArt-alpha/PixArt-LCM
+  - SDXL Base: [https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
+  - SDXL Turbo: [https://huggingface.co/stabilityai/sdxl-turbo](https://huggingface.co/stabilityai/sdxl-turbo)
+  - PixArt-α: [https://huggingface.co/spaces/PixArt-alpha/PixArt-LCM](https://huggingface.co/spaces/PixArt-alpha/PixArt-LCM)
