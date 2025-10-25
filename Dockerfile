@@ -10,8 +10,8 @@ RUN apt-get update && apt-get install -y \
     nodejs \
     && rm -rf /var/lib/apt/lists/*
 
-# Copy the Gemfile and Gemfile.lock into the container
-COPY Gemfile ./
+COPY --chown=jekyll:jekyll Gemfile .
+COPY --chown=jekyll:jekyll Gemfile.lock .
 
 RUN rm -f Gemfile.lock
 
