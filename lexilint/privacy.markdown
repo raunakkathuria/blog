@@ -7,7 +7,7 @@ exclude: true
 
 # Privacy Policy for LexiLint
 
-**Last Updated:** January 24, 2025
+**Last Updated:** October 24, 2025
 
 ## Overview
 
@@ -38,8 +38,7 @@ We do not:
 - **Internet required:** Yes
 - **Who sees your text:** Only the AI provider you choose
 - **Your control:** You provide your own API key. We never see it or your text.
-- **Data storage:** LexiLint does NOT store the text you check. Refer to your AI provider's privacy policy for their data handling:
-  - [Google Gemini Privacy Policy](https://ai.google.dev/gemini-api/terms)
+- **Data storage:** LexiLint does NOT store the text you check. Refer to your AI provider's privacy policy for their data handling.
 
 **Important:** When you use grammar checking, you are directly communicating with the AI provider using YOUR API key. LexiLint acts only as a messenger. We never intercept, store, or transmit your text to our servers.
 
